@@ -25,6 +25,7 @@ Directory struct:
 ----meme
 ----non-meme
 
+Final dataset:https://drive.google.com/file/d/1oN7YtUxs9XmGn3oFQhYnAA9dkKdFWmyr/view?usp=sharing
 Main training script: main_training_script.ipynb
 Approach: Finetuning a EfficientNet_B0 model. Will freeze the features branch and only set a new classifier head for 2 classes. Other architectures could be tried but I like working with effnet, its lightweight and accurate for most cases. 
 Loss fn: CrossEntropyLoss
