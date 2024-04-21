@@ -25,7 +25,7 @@ keras==2.15.0
 tensorflow==2.15.0
 
 Scripts: Script present in "scripts" dir.
-Data: The filtered dataset was uploaded to Kaggle datasets and made public:FacebookHatefulDataset_WithoutTextCaptions
+Data: The filtered dataset was uploaded to Kaggle datasets and made public:FacebookHatefulDataset_WithoutTextCaptions(Uploaded to drive too: https://drive.google.com/file/d/1C7uZ0LuwrSEuLKP2j7sKc9Nrw2eJTawB/view?usp=sharing)
 
 Steps: 
 1)Filtering out text from images(kerasOcr_FilterOutText.ipynb) 
